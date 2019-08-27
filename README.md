@@ -1,2 +1,2 @@
 # ufrgs-fpi
-Cadeira de FPI - Ciência da Computação UFRGS
+FPI - Ciência da Computação UFRGS
